@@ -1,0 +1,48 @@
+<xs:schema>
+    <xs:element name="relacion">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="persona" type="xs:string">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="email" type="xs:string"/>
+                            <xs:element name="parentesto" type="xs:string">
+                                <xs:complexType>
+                                    <xs:attribute name="Tipo" type="xs:string"/>
+                                <xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                    <xs:attribute name="sexo" type="xs:string"/>
+                    <xs:attribute name="carnet" type="xs:string"/>
+                </xs:element>
+                <xs:element name="persona" type="xs:string">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="email" type="xs:string"/>
+                            <xs:element name="parentesto" type="xs:string">
+                                <xs:complexType>
+                                    <xs:attribute name="Tipo" type="xs:string"/>
+                                <xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                    <xs:attribute name="sexo" type="xs:string"/>
+                    <xs:attribute name="carnet" type="xs:string"/>
+                </xs:element>
+                <xs:element name="persona" type="xs:string">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="email" type="xs:string"/>
+                            <xs:element name="email" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                    <xs:attribute name="carnet" type="xs:string"/>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+   <xs:element>
+</xs:schema>

@@ -1,0 +1,9 @@
+body {background-color: tan} --> Para cambiar el color del fondo de la pagina  
+h1 {color:maroon; font-size:20pt} --> Para cambiar el color del primer titulo y cambia el tamaño de la letra . 
+hr {color:navy} ---> cambiar la linea separatoria de color .
+p {font-size:12pt; margin-left: 15px} ---> Cambiar el tamaño de la letra de los parrafos y el tamaño de separacion que tiene con el margen . 
+p.verse {color:maroon; margin-left: 60px} ---> para la clase verse en especifico cambiar el color a marron y la separacion con el margen .
+a:link     {color:green} ---> para los links que no son visitados que tengan ese color .
+a:visited  {color:yellow} ---> para los links que son visitados que tengan ese color .
+a:hover    {color:black} ---> para los links que pases el raton por encima tengan ese color .
+a:active   {color:blue} ---> para los links que al momento de se clicados tengan ese color .

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Membership>
+    <Member name="Chris Smith">
+        <YearsOM>4</YearsOM>
+    </Member>
+    <Member name="Judi Zimmerman">
+        <YearsOM>5</YearsOM>
+    </Member>
+    <Member name="Michael Calder">
+        <YearsOM>3</YearsOM>
+    </Member>
+</Membership>

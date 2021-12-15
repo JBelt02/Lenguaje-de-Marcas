@@ -1,0 +1,23 @@
+html.color{background-color: black;}
+
+div.primero{width: 50px;height:10px;margin-left:0px;}
+
+div.segundo{display:flex;justify-content:right;padding-right:100px;}
+
+p.parr{margin-top:150px;margin-right:80px;color:white;font-size:30px;}
+
+img.imagen1{width:500px;height:300px;margin-top: 50px;}
+
+img.imagen2 {width:150px;height:150px;}
+
+h1.reciente{color: white;}
+
+img.imagen3{border:5px solid white;width:250px;height: 200px;margin:10px;}
+
+div.tercero{display:flex;justify-content: center;}
+
+input.boton{border-radius:10px;background-color:red;width:90px;height:50px;}
+
+div.final{text-align:center;color:white;font-size:20px;}
+
+b.rojo {color: red;}

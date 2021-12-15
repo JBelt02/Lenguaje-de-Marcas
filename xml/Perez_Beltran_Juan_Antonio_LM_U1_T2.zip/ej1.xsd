@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:element name="Membership">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="Member" type="xs:string">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="YearsOM" type="xs:string">
+                    </xs:sequence>
+                </xs:complexType>
+                <xs:attribute name="name" type="xs:string"/>
+            <xs:element name="Member" type="xs:string">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="YearsOM" type="xs:string">
+                    </xs:sequence>
+                </xs:complexType>
+                <xs:attribute name="name" type="xs:string"/>
+            <xs:element name="Member" type="xs:string">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="YearsOM" type="xs:string">
+                    </xs:sequence>
+                </xs:complexType>
+                <xs:attribute name="name" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>

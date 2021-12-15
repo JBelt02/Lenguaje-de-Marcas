@@ -1,0 +1,1 @@
+Por que esos parrafos pertenecen a la clase verse la cual en la hoja de estilos esta señalado con el codigo " p.verse {color:maroon; margin-left: 60px} " estos tienen un color diferente y una distancia de margen mayor que los parrafos normales los cuales estan configurados con " p {font-size:12pt; margin-left: 15px}" 
