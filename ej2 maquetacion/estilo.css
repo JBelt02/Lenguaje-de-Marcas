@@ -1,0 +1,39 @@
+.head {
+    background-color: black;
+    color: white;
+    padding-left: 50%; 
+}
+.p {
+    background-color: white;
+    color: black;
+    padding-left: 90%;
+}
+.lista {
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.element {
+    padding-left: 20px;
+}
+.element1 {
+    background-color: black;
+    color: white;
+    
+}
+.element2 {
+    background-color: grey;
+    color: black;
+}
+.segundo {
+    background-color: grey;
+    margin-left: 50%;
+}
+.imagen {
+    height: 150px;width: 150px;
+    display: flex;
+}
+.element3 {
+    background-color: black;
+    color: white;
+    padding-left: 40%;
